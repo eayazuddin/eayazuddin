@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Eayaz uddin</h1>
 <h3 align="center">A passionate Mobile Application developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Ecommerce App**
-
-- 🌱 I’m currently learning **Flutter**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
